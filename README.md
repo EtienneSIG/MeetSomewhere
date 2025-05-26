@@ -2,6 +2,11 @@
 
 Une application Streamlit pour déterminer le point de rencontre idéal entre plusieurs adresses, en tenant compte de différents modes de transport et de contraintes personnalisables de distance/temps.
 
+
+## Application in streamlit cloud
+
+https://meetsomewhere-2td6i3kpnvu3cafawqsgad.streamlit.app/
+
 ## Fonctionnalités
 
 - Saisie de plusieurs adresses (jusqu'à 10)
